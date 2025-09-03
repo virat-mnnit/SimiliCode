@@ -112,8 +112,4 @@ npm start
 - [ ] GitHub repo link checker and plagiarism from public repos
 
 
-## 👤 Author
 
-**Anurag Kushwaha** 
-📫 [LinkedIn](https://www.linkedin.com/in/anuragk04/)  
-🐙 [GitHub](https://github.com/anuragk-04)  
